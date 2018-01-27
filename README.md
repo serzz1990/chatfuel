@@ -1,6 +1,13 @@
-# chatfuel
+# Vue material user list
 
 > A Vue.js project
+
+ - Vuex
+ - Vue router
+ - Vue material
+ - Vue resource
+ - Vue resource mock
+
 
 ## Build Setup
 
