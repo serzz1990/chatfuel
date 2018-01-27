@@ -8,6 +8,7 @@
  - Vue resource
  - Vue resource mock
 
+![preview](https://s5o.ru/storage/dumpster/4/7d/47c8ecc5f07e52cf405e0be0b2d2c.png)
 
 ## Build Setup
 
